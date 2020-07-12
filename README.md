@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Some of my works
+![Liberty 5 Point of Sale iPad App UI:UX Design](images/Liberty 5 Point of Sale iPad App UI:UX Design.gif)
