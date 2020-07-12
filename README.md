@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Some of my works
-![Liberty 5 Point of Sale iPad App UI:UX Design](images/Liberty 5 Point of Sale iPad App UI:UX Design.gif)
+![Liberty 5 Point of Sale iPad App UI:UX Design](https://github.com/ngima/ngima/blob/master/images/Liberty%205%20Point%20of%20Sale%20iPad%20App%20UI:UX%20Design.gif)
