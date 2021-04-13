@@ -22,5 +22,17 @@ Here are some ideas to get you started:
 
 [<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c">](https://youtube.com/NgimaSherpa)
 
+
+
+<p align="center">
+<a href="https://github-readme-stats-eight-theta.vercel.app">
+
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ngima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ngima&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</a>
+</p>
 <!-- [![Foo](https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c)](https://youtube.com/NgimaSherpa)
 -->
