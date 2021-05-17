@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Connect me on
 
-[<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c">](https://youtube.com/NgimaSherpa)
+[<img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c" width="200">](https://youtube.com/NgimaSherpa)
 
 
 <!-- [![Foo](https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube-logo-full_color_light.svg?cache=72a5d9c)](https://youtube.com/NgimaSherpa)
