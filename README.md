@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Some of my works
-[<img src="https://github.com/ngima/ngima/blob/master/images/Liberty%205%20Point%20of%20Sale%20iPad%20App%20UI:UX%20Design.gif">](https://github.com/ngima/#)
-[<img src="https://github.com/ngima/ngima/blob/master/images/Liberty%205%20Point%20of%20Sale%20iPad%20App%20UI:UX%20Design.gif">](https://github.com/ngima/#)
+<a href="https://www.youtube.com/embed/zEVP89T3od4" target="_blank"><img src="https://github.com/ngima/ngima/blob/master/images/Liberty%205%20Point%20of%20Sale%20iPad%20App%20UI:UX%20Design.gif"></a>
 
 ## Connect me on
 
