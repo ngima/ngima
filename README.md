@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://links.ngimasherpa.com.np/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Links-%20Find%20all%20links-brightgreen"/>
+<img align="center" src="https://img.shields.io/badge/Links-%20All%20links-brightgreen"/>
 </a>
 
 ## Github Stats 📈
