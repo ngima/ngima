@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
   
 - 🔭 I’m currently working on Health App & IoT App for monitoring sensors data
-- 🌱 I’m currently learning to Jetpack Compose
+- 🌱 I’m currently learning to Jetpack Compose, Flutter, SwiftUI
 - 👯 I’m looking to collaborate on building useful Android Apps
 - 💬 Ask me about Android, Java, Kotlin, iOS, Swift, Expo ReactNative and UI/UX
 - 📫 How to reach me: Contact via LinkedIn
