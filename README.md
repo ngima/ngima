@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 
 #  Hi there! 👋 This is Ngima 👨‍💻
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 - 🔭 I’m currently working on Health App & IoT App for monitoring sensors data
 - 🌱 I’m currently learning Jetpack Compose, Flutter, SwiftUI, TDD
