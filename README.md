@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
   
-- 🔭 I’m currently working on Health App & IoT App for monitoring sensors data
-- 🌱 I’m currently learning Jetpack Compose, Flutter, SwiftUI, TDD
-- 👯 I’m looking to collaborate on building useful Android/iOS Apps
-- 💬 Ask me about Android, Java, Kotlin, iOS, Swift, Expo ReactNative and UI/UX
+- 🔭 I’m currently working on Endo-App
+- 🌱 I’m currently learning Rive Animation
+- 💬 Ask me about Android, Java, Kotlin, Expo ReactNative and UI/UX
 - 📫 How to reach me: Contact via LinkedIn
 
 ### My Online Presence 👇
